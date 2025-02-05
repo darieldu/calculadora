@@ -21,3 +21,5 @@ buttons.forEach(button => {
         }
     });
 });
+
+// esta es la primera version de mi calculadora
